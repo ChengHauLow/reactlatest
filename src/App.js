@@ -4,8 +4,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1>Hello</h1>
-        <p>I'm just a paragraph</p>
+        <h1>My App</h1>
       </div>
     </>
   );
